@@ -5,7 +5,7 @@ package icon.types.v1;
 // import "gogoproto/gogo.proto";
 
 // go_package output 
-option go_package = "libs/icon/ibc;icon";
+option go_package = "libs/icon;icon";
 
 // BlockIdFlag indicates which BlcokID the signature is for
 enum BlockIDFlag {

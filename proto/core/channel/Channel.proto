@@ -3,7 +3,7 @@ package core.channel;
 
 
 
-option go_package = "libs/icon/ibc;icon";
+option go_package = "libs/icon;icon";
 import "proto/core/client/Client.proto";
 
 // Channel defines pipeline for exactly-once packet delivery between specific

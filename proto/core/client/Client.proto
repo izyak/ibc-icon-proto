@@ -2,7 +2,7 @@ syntax = "proto3";
 package core.client;
 
 
-option go_package = "libs/icon/ibc;icon";
+option go_package = "libs/icon;icon";
 // Height is a monotonically increasing data type
 // that can be compared against another Height for the purposes of updating and
 // freezing clients

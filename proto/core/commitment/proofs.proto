@@ -1,6 +1,6 @@
 syntax = "proto3";
 
-option go_package = "libs/icon/ibc;icon";
+option go_package = "libs/icon;icon";
 package core.commitment;
 
 enum HashOp {

@@ -3,7 +3,7 @@ package core.connection;
 
 import "proto/core/commitment/commitment.proto";
 
-option go_package = "libs/icon/ibc;icon";
+option go_package = "libs/icon;icon";
 
 // ICS03 - Connection Data Structures as defined in
 // https://github.com/cosmos/ibc/blob/master/spec/core/ics-003-connection-semantics#data-structures

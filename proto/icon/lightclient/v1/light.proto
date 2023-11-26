@@ -7,7 +7,7 @@ option java_package = "com.light-client.icon";
 option java_outer_classname = "IconProtos";
 
 // go_package output 
-option go_package = "libs/icon/ibc;icon";
+option go_package = "libs/icon;icon";
 
 import "proto/icon/types/v1/types.proto";
 
